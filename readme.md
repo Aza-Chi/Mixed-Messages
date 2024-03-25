@@ -19,10 +19,7 @@
 | ------ | ------ | ------ | ------ |
 
 - [Test] -
-<span style="color:blue">some *blue* text</span>.
-A project by Chi.
-[Test][df1]
-*[2024]*
+A project by Chi. *[2024]*
 
 ## Images
  ![Description](/media/images/placeholder.jpeg)
@@ -30,4 +27,4 @@ A project by Chi.
 ## License
 
 [//]: # (Comments for readers: Hello! Welcome to a secret area!)
-[//]: # This is the end of the README for now!
+[//]: # (This is the end of the README for now! [Test][df1])
