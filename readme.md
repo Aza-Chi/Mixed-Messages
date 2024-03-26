@@ -6,21 +6,29 @@
 
 > ✨Abracadabra! ✨
 
-## Project Objectives:
+### Project Objectives:
 - Build a message generator program using JavaScript
 - Use Git version control
 - Use command line
 - Develop locally on your computer
 
-## Features 
+### Features 
 - Tells your fortune on a random day within the next 30 days.
 
-### Mixed Message Structure
+#### Mixed Message Structure
 
 | Default Text 1 | *Date* | Default Text 2 | *Phrase* | Default Text 3|*Final Comment* |
 | --------------- | ---- | -------------- | ------ |------------- |------------- |
 
-## TO-DO List
+
+
+> A project by `Chi`. *[2024]*
+
+
+### Images
+ ![Placeholder](/media/images/placeholder.jpeg)
+
+#### TO-DO List
 ```diff
 + Create frontend
 + Add 2 extra fortunes.
@@ -30,12 +38,5 @@
 -! !-
 ```
 
-```diff
-+ A project by Chi. *[2024]*
-```
-
-## Images
- ![Placeholder](/media/images/placeholder.jpeg)
-
 ## License
-MIT
+**MIT**
