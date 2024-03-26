@@ -2,6 +2,8 @@
 
 ## _Fortune Teller_
 
+> A project by `Chi`. *[2024]*
+
 #### Use this program to discover `your fortune` to come!
 
 > ✨Abracadabra! ✨
@@ -19,11 +21,6 @@
 
 | Default Text 1 | *Date* | Default Text 2 | *Phrase* | Default Text 3|*Final Comment* |
 | --------------- | ---- | -------------- | ------ |------------- |------------- |
-
-
-
-> A project by `Chi`. *[2024]*
-
 
 ### Images
  ![Placeholder](/media/images/placeholder.jpeg)
