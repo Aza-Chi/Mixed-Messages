@@ -2,7 +2,7 @@
 
 ## _Fortune Teller_
 
-#### Use this program to discover `your fortune` for the day!
+#### Use this program to discover `your fortune` to come!
 
 > ✨Abracadabra! ✨
 
@@ -13,16 +13,27 @@
 - Develop locally on your computer
 
 ## Features 
-- Placeholder Text
+- Tells your fortune on a random day within the next 30 days.
 
 | Default: | Phrase 1 | Phrase 2 | Phrase 3 |
 | ------ | ------ | ------ | ------ |
 
-- [Test] -
-A project by Chi. *[2024]*
+## TO-DO List
+```diff
+- Add 2 extra fortunes.
+- Add more phrases.
++ 
+! 
+@@  @@ 
+-! !-
+```
+
+```diff
+- A project by Chi. *[2024]*
+```
 
 ## Images
- ![Description](/media/images/placeholder.jpeg)
+ ![Placeholder](/media/images/placeholder.jpeg)
 
 ## License
 
