@@ -27,10 +27,10 @@
 
 #### TO-DO List
 ```diff
-+ Create frontend
++ Create frontend.
 + Add 2 extra fortunes.
 + Add more phrases.
-! 
+! Replace placeholder image once frontend is finished.
 @@  @@ 
 -! !-
 ```
