@@ -27,6 +27,14 @@ A project by Chi. *[2024]*
 ## License
 
 ## Colour Test
+```diff
+- I should be red
++ I should be green 
+! I should be orange 
+@@ I should be purple and bold @@ 
+-! Warning !-
+```
+-! Warning !-
 🔴 red: +5V
 🟠 orange: +3.3V
 ⚫ black: ground
@@ -48,12 +56,9 @@ $${\color{black}Black}$$	$${\color{black}Black}$$
 $${\color{white}White}$$	$${\color{white}White}$$
 
 More than one color
-Code
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
-~~stroke~~
-<a >blue color</a>
-<font color=#0fb503>other color</font>
+
 
 [//]: # (Comments for readers: Hello! Welcome to a secret area!)
 [//]: # (This is the end of the README for now! [Test][df1])
